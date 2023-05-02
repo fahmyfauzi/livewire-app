@@ -21,7 +21,7 @@
                 <a class="nav-link  {{ (request()->routeIs('counter')) ? 'active' : '' }}" aria-current="page" href="counter">Counter</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="#">Caculator</a>
+                <a class="nav-link {{ (request()->routeIs('calculator')) ? 'active' : '' }}" href="calculator">Caculator</a>
               </li>
               <li class="nav-item">
                 <a class="nav-link" href="#">TodoList</a>
