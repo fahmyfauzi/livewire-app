@@ -30,7 +30,7 @@
                 <a class="nav-link {{ (request()->routeIs('cascading')) ? 'active' : '' }}" href="cascading">Cascading Dropdown</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link disabled">Product Search</a>
+                <a class="nav-link {{ (request()->routeIs('search')) ? 'active' : '' }}" href="product-search">Product Search</a>
               </li>
               <li class="nav-item">
                 <a class="nav-link disabled">Image Upload</a>
