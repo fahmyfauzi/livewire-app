@@ -27,7 +27,7 @@
                 <a class="nav-link {{ (request()->routeIs('todolist')) ? 'active' : '' }}" href="todolist">TodoList</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link disabled">Cascading Dropdown</a>
+                <a class="nav-link {{ (request()->routeIs('cascading')) ? 'active' : '' }}" href="cascading">Cascading Dropdown</a>
               </li>
               <li class="nav-item">
                 <a class="nav-link disabled">Product Search</a>
