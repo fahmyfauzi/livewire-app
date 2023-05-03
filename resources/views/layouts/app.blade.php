@@ -24,7 +24,7 @@
                 <a class="nav-link {{ (request()->routeIs('calculator')) ? 'active' : '' }}" href="calculator">Caculator</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="#">TodoList</a>
+                <a class="nav-link {{ (request()->routeIs('todolist')) ? 'active' : '' }}" href="todolist">TodoList</a>
               </li>
               <li class="nav-item">
                 <a class="nav-link disabled">Cascading Dropdown</a>
