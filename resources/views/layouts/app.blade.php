@@ -33,7 +33,7 @@
                 <a class="nav-link {{ (request()->routeIs('search')) ? 'active' : '' }}" href="product-search">Product Search</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link disabled">Image Upload</a>
+                <a class="nav-link {{request()->routeIs('image' ) ? 'active' :''}}" href="image-upload">Image Upload</a>
               </li>
               <li class="nav-item">
                 <a class="nav-link disabled">Registration</a>
