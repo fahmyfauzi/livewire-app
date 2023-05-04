@@ -36,7 +36,7 @@
                 <a class="nav-link {{request()->routeIs('image' ) ? 'active' :''}}" href="image-upload">Image Upload</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link disabled">Registration</a>
+                <a class="nav-link {{ request()->routeIs('registration') ? 'active' : '' }}" href="registration">Registration</a>
               </li>
             </ul>
           </div>
