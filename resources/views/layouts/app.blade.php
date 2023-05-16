@@ -38,6 +38,9 @@
               <li class="nav-item">
                 <a class="nav-link {{ request()->routeIs('registration') ? 'active' : '' }}" href="registration">Registration</a>
               </li>
+              <li class="nav-item">
+                <a class="nav-link {{ request()->routeIs('slug') ? 'active' : '' }}" href="slug">Slug</a>
+              </li>
             </ul>
           </div>
         </div>
