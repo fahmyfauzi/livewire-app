@@ -1,5 +1,6 @@
 <?php
 
+use App\Http\Livewire\Blogs;
 use App\Http\Livewire\Calculator;
 use App\Http\Livewire\CascadingDropdown;
 use App\Http\Livewire\Counter;
@@ -34,3 +35,4 @@ Route::get('/product-search', ProductSearch::class)->name('search');
 Route::get('/image-upload', ImageUpload::class)->name('image');
 
 Route::get('/registration', RegistrationForm::class)->name('registration');
+Route::get('/slug', Blogs::class)->name('slug');

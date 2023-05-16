@@ -22,11 +22,19 @@ class Blogs extends Component
         $this->slug = SlugService::createSlug(Blog::class, 'slug', $this->blog_title);
     }
 
+    /**
+     * Write code on Method
+     *
+     * @return response()
+     */
     public function store()
     {
+        $this->generateSlug();
         Blog::create([
             'blog_title' => $this->blog_title,
-            'slug' => $this->slug
+            'slug'  => $this->slug
         ]);
+
+        $this->blog_title = '';
     }
 }
