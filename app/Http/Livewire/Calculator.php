@@ -6,7 +6,7 @@ use Livewire\Component;
 
 class Calculator extends Component
 {
-    public $number10;
+    public $number1;
     public $number2 = 0;
     public string $action = '+';
     public float $result = 0;
