@@ -82,8 +82,31 @@ Pembelajaran 8 proyek sederhana untuk pemula dari [youtube The Codeholic](https:
 [Fahmy Fauzi ](https://github.com/fahmyfauzi)
 
 ## screanshot
+1. Proyek Counter
+ ![Untitled video - Made with Clipchamp](https://github.com/fahmyfauzi/livewire-app/assets/58255031/2ec28c3b-39b3-4433-947b-fa9f07942ac2)
+
+
+2. Proyek Kalkulator
+   ![Untitled video - Made with Clipchamp (1)](https://github.com/fahmyfauzi/livewire-app/assets/58255031/f32142c2-20fb-443f-ac86-6c353a5e136a)
 
 
 
-https://github.com/fahmyfauzi/livewire-app/assets/58255031/8ba17095-05db-40c4-99d0-bd26ef746b10
+3. Proyek Todo List
+  ![Untitled video - Made with Clipchamp (2)](https://github.com/fahmyfauzi/livewire-app/assets/58255031/3f66d917-87ea-4997-b0e9-433e8418a06e)
 
+
+4. Proyek Cascading Dropdown
+   ![Untitled video - Made with Clipchamp (3)](https://github.com/fahmyfauzi/livewire-app/assets/58255031/d34dc2d7-e9b3-4f81-87e0-5ace32527110)
+
+
+5. Proyek Product Search
+   ![Untitled video - Made with Clipchamp (4)](https://github.com/fahmyfauzi/livewire-app/assets/58255031/e8c4a0fb-459d-4d6f-863f-eb4ab3f5be8c)
+
+6. Proyek Image Upload
+    ![Untitled video - Made with Clipchamp (5)](https://github.com/fahmyfauzi/livewire-app/assets/58255031/1ca0d49a-ada6-40ef-b398-b1a8101f9514)
+
+7. Proyek Registration Vendor atau Customer
+    ![Untitled video - Made with Clipchamp (6)](https://github.com/fahmyfauzi/livewire-app/assets/58255031/552cd0f6-ba87-4866-b637-0e40a67396bb)
+
+8. Proyek Slug otomatis
+   ![Untitled video - Made with Clipchamp (8)](https://github.com/fahmyfauzi/livewire-app/assets/58255031/21c32eaf-e2ea-4824-94eb-8b6ed8eb35af)
